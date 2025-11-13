@@ -24,6 +24,16 @@ GLSL            ░░░░░░░░░░░░░░░░░░░░░�
 Mathematica     ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.3%
 ```
 
+    ___       
+   (.. \      
+   (<> |      
+  //  \ \     
+ ( |  | /|    
+_/\ __)/_)    
+\/-____\/     
+
+
+
 ### RECENT ACTIVITY
 
 - 🔨 [teatonedev](https://github.com/teatonedev/teatonedev) - Profile readme file (JavaScript)
