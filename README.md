@@ -25,7 +25,6 @@ Mathematica     ░░░░░░░░░░░░░░░░░░░░░�
 ```
 
 ```
-
     ___        
    (.. \      
    (<> |      
@@ -35,30 +34,6 @@ _/\ __)/_)
 \/-____\/       
 
 ```
-
-<?xml version="1.0" encoding="utf-8"?>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240">
-   
-  <rect width="100%" height="100%" fill="#1e1e1e"/>
-  <g font-family="DejaVu Sans Mono, 'Courier New', monospace" font-size="18" fill="#cfcfcf" >
-    <text x="16" y="28">
-      <tspan x="16" dy="0">    ___       </tspan>
-      <tspan x="16" dy="1.2em">   (.. \      --------------</tspan>
-      <tspan x="16" dy="1.2em">   (</tspan>
-      <tspan fill="#ffffff">..</tspan>
-      <tspan fill="#cfcfcf"> \      --------------</tspan>
-      <tspan x="16" dy="1.2em">   (</tspan>
-      <tspan fill="#cfcfcf">&lt;</tspan><tspan fill="#ffdd00">&lt;&gt;</tspan><tspan fill="#cfcfcf"> |      OS: Fedora Linux 43 (Server Edition) x86_64</tspan>
-      <tspan x="16" dy="1.2em">  //  \ \     Host: ProLiant DL380 G7</tspan>
-      <tspan x="16" dy="1.2em"> ( |  | /|    Kernel: Linux 6.17.7-300.fc43.x86_64</tspan>
-      <tspan x="16" dy="1.2em">_/\ __)/_)    Uptime: 1 hour, 18 mins</tspan>
-      <tspan x="16" dy="1.2em">\/-____\/    </tspan>
-    </text>
-  </g>
-
-</svg>
-
 
 ### RECENT ACTIVITY
 
