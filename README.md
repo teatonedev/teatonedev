@@ -1,10 +1,10 @@
-# TEATONEDEV
+# TEATONEX
 
 ##  GITHUB STATISTICS
 
 ### OVERVIEW
 ```
-🔭 Repositories         33
+🔭 Repositories         23
 ⭐ Stars Received       5  
 🍴 Forks               0
 👥 Followers           70
@@ -14,15 +14,7 @@
 ### MOST USED LANGUAGES
 
 ```
-    ___        
-   (.. \      
-   (<> |      
-  //  \ \     
- ( |  | /|    
-_/\ __)/_)    
-\/-____\/       
-
-C#              █████████████░░░░░░░░░░░░ 50.5%                                           
+C#              █████████████░░░░░░░░░░░░ 50.5%
 ShaderLab       ████████░░░░░░░░░░░░░░░░░ 30.9%
 C               ██░░░░░░░░░░░░░░░░░░░░░░░ 6.4%
 HLSL            █░░░░░░░░░░░░░░░░░░░░░░░░ 5.9%
@@ -30,7 +22,6 @@ Python          █░░░░░░░░░░░░░░░░░░░░�
 C++             ░░░░░░░░░░░░░░░░░░░░░░░░░ 1.8%
 GLSL            ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.3%
 Mathematica     ░░░░░░░░░░░░░░░░░░░░░░░░░ 0.3%
-
 ```
 
 ### RECENT ACTIVITY
@@ -43,15 +34,15 @@ Mathematica     ░░░░░░░░░░░░░░░░░░░░░�
 
 ### Quick Stats
 ![Repositories](https://img.shields.io/badge/Repositories-23-blue?style=flat-square)
-![Stars](https://img.shields.io/badge/Stars-4-yellow?style=flat-square)
-![Followers](https://img.shields.io/badge/Followers-73-green?style=flat-square)
+![Stars](https://img.shields.io/badge/Stars-5-yellow?style=flat-square)
+![Followers](https://img.shields.io/badge/Followers-70-green?style=flat-square)
 
 ---
 
 <div align="center">
   <sub>
     This README updates automatically every day<br/>
-    ⚡ Generated in 3.63s using 22 API requests<br/>
-    Last updated: September 26, 2025 at 01:54 AM UTC
+    ⚡ Generated in 3.21s using 22 API requests<br/>
+    Last updated: January 14, 2026 at 07:34 AM UTC
   </sub>
 </div>
