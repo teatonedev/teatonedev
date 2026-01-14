@@ -4,10 +4,10 @@
 
 ### OVERVIEW
 ```
-🔭 Repositories         23
-⭐ Stars Received       4  
+🔭 Repositories         33
+⭐ Stars Received       5  
 🍴 Forks               0
-👥 Followers           73
+👥 Followers           70
 📦 Repository Size     847.6 MB
 ```
 
