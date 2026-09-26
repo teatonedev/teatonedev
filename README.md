@@ -1,88 +1,82 @@
 # TEATONEX
 
 ```text
-Computer Science
-Research Engineering
-HPC / NLP / Scientific Computing
+computer science
+research engineering
+scientific computing
+machine learning
+high-performance computing
 ```
 
-Research Engineer at [TCCDEM](https://github.com/tccdem).
+Research engineer working at the intersection of scientific software, computational materials science, machine learning, and high-performance computing.
 
-I work mainly on scientific software, high-performance computing, machine learning,
-natural language processing, and various tools built around problems I encounter.
+My work is mostly centered around building research software, computational pipelines, machine-learning models, and tools for scientific workloads.
 
----
-
-## github
+## work
 
 ```text
-repositories      24
-stars received     5
-forks              0
-followers         71
-repository size   849.0 MB
+materials science
+crystal structure prediction
+density functional theory
+machine learning
+scientific software
+high-performance computing
+natural language processing
 ```
 
-## languages
+I work on computational materials research, crystal structure prediction, atomistic simulation, machine learning for scientific problems, and software infrastructure around these workflows.
+
+A large part of my work involves taking research ideas and turning them into practical software: data pipelines, model training systems, command-line tools, APIs, automation, and reproducible computational workflows.
+
+## stack
 
 ```text
-C#            47.7%  ████████████████████████
-ShaderLab     31.4%  ████████████████
-C              7.2%  ████
-HLSL           6.0%  ███
-Python         5.0%  ███
-C++            2.0%  █
-Mathematica    0.4%
-Java           0.4%
+languages
+  python
+  C
+  c#
+  shell
+
+compute
+  Linux
+  CUDA
+  MPI
+  SLURM
+  HPC
+
+scientific
+  PyTorch
+  ASE
+  Pymatgen
+  Castep Automation
+  atomistic ML / MLIPs
+
+other
+  docker
+  git
+  sql
 ```
 
-## recent repositories
-
-### [nicetree](https://github.com/teatonedev/nicetree)
+## current interests
 
 ```text
-lang: python
+crystal generation
+materials discovery
+machine learning interatomic potentials
+domain adapted language models
+gpu / hpc computing
+research software engineering
 ```
 
-Cross-platform implementation of the Unix `tree` utility with configurable
-directory-tree output for Linux, macOS, and Windows.
-
-### [GpuClean](https://github.com/teatonedev/GpuClean)
+## profile
 
 ```text
-lang: python
+handle      teatonedev
+environment linux
+editor      terminal
+focus       research + software
 ```
 
-Command-line utility for inspecting NVIDIA GPU memory and terminating processes
-that keep VRAM allocated after interrupted or failed CUDA workloads.
+Most of my public work lives here:
 
-### [Driving-Car-Game](https://github.com/teatonedev/Driving-Car-Game)
-
-```text
-lang: c#
-```
-
-Simple Unity driving game with mobile notification support for Android and iOS.
-
-### [Natural-Language-Processing-Applications](https://github.com/teatonedev/Natural-Language-Processing-Applications)
-
-```text
-lang: python
-```
-
-Implementations of NLP methods ranging from tokenization, vectorization and
-TF-IDF to embeddings, text classification, NER and machine translation.
-
-### [teatonedev](https://github.com/teatonedev/teatonedev)
-
-```text
-type: profile
-```
-
-Source for this GitHub profile.
-
----
-
-```text
-github.com/teatonedev
-```
+https://github.com/teatonedev
