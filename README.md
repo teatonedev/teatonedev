@@ -9,8 +9,21 @@ high-performance computing
 ```
 
 Research engineer working at the intersection of scientific software, computational materials science, machine learning, and high-performance computing.
-
 My work is mostly centered around building research software, computational pipelines, machine-learning models, and tools for scientific workloads.
+
+        ○
+   ⢀⡤⠖⠒⠚⠓⠒⠛⠦⠤⢤⣀⡀     ⣀⣠⠤⠤⠖⠒⠒⠒⠒⠒⠦⣄
+   ⣏           ⣈⣩⠷⠲⢯⣉⡀          ⢈⡇
+   ⠘⢦⡀     ⣀⡤⠖⠋⠁     ⠉⠓⠦⣄⡀     ⣠⠞
+     ⠙⢦⡀⣠⠴⠋⠁             ⠉⠳⢤⡀⣠⠞⠁
+     ⢀⡴⠋⠳⢤⡀               ⣠⠴⠋⠳⣄
+   ⢀⡴⠋    ⠉⠓⠦⣄⡀       ⣀⡤⠖⠋⠁   ⠈⠳⣄
+   ⡞          ⠉⠓⠲⣤⣠⡴⠒⠋⠁         ⠘⡆
+   ⠙⠦⣄⣀⣀⣀⣀⣀⡤⠤⠴⠒⠊⠉⠁ ⠉⠉⠒⠲⠤⠤⣄⣀⣀⣀⣀⣀⡤⠞⠁
+
+              T C & C D E M
+              
+
 
 ## work
 
