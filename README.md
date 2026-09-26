@@ -1,4 +1,4 @@
-# TEATONEX
+# TEATONE
 
 ```text
 computer science
@@ -76,7 +76,3 @@ environment linux
 editor      terminal
 focus       research + software
 ```
-
-Most of my public work lives here:
-
-https://github.com/teatonedev
