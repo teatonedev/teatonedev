@@ -3,9 +3,8 @@
 ```text
 computer science
 research engineering
-scientific computing
-machine learning
-high-performance computing
+machine learning & deep learning
+high performance computing
 ```
 
 Research engineer working at the intersection of scientific software, computational materials science, machine learning, and high-performance computing.
